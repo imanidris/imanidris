@@ -4,6 +4,8 @@ I'm Iman, a data scientist with a background in visual design and architecture. 
 
 
 - 🔭 I’m currently working on my thesis project 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning about 
 - 📫 How to reach me: imanidris1212@gmail.com
 
+
+You can see my Data Science portfolio here.

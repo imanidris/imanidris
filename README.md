@@ -15,5 +15,5 @@ You can check my Data Science portfolio here.
 Language: Python, SQL
 Libraries and Frameworks: PyTorch, TensorFlow, HuggingFace, Transformers, OpenCV, scikit-learn, NumPy.
 
-#### Connect with Me
+#### Connect with Me:
 Reach me out at imanidris1212@gmail.com

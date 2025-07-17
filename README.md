@@ -12,8 +12,8 @@ I'm Iman, a data scientist based in London with a background in visual design an
 - You can check my Data Science portfolio here.
 
 #### Tools:
-- Language: Python, SQL
-- Libraries and Frameworks: PyTorch, TensorFlow, HuggingFace, Transformers, OpenCV, scikit-learn, NumPy.
+- Language: Python, SQL, JavaScript 
+- Libraries and Frameworks: PyTorch, TensorFlow, HuggingFace, Transformers, OpenCV, scikit-learn, NumPy, p5js.
 
 #### Connect with Me:
 - Reach me out at imanidris1212@gmail.com

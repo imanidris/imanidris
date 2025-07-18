@@ -31,4 +31,4 @@ semantic image understanding
 interactive real-time image processing
 … -->
 
-- Reach me out at imanidris1212@gmail.com
+Reach me out at imanidris1212@gmail.com

@@ -10,16 +10,18 @@ I'm Iman, a data scientist based in London with a background in visual design an
 
 #### Portfolio:
 - You can check my Data Science portfolio here.
+  
+#### Research Interest:
+
+- Computer Vision
+- Machine Learning
+- Deep Learning
 
 #### Tools:
 - Language: Python, SQL, JavaScript 
 - Libraries and Frameworks: PyTorch, TensorFlow, HuggingFace, Transformers, OpenCV, scikit-learn, NumPy, p5js.
 
-#### Research Interest:
 
-Computer Vision
-Machine Learning
-Deep Learning
 
 <!-- 
 geometric machine learning

@@ -21,11 +21,12 @@ Computer Vision
 Machine Learning
 Deep Learning
 
-#
+<!-- 
 geometric machine learning
 Computer Graphics
 AI Safety
 semantic image understanding
 interactive real-time image processing
-#
+… -->
+
 - Reach me out at imanidris1212@gmail.com

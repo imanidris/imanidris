@@ -30,6 +30,8 @@ AI Safety
 semantic image understanding
 interactive real-time image processing
 human-computer-interaction
+image/signal analysis
+responsible AI
 … -->
 
 

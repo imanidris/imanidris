@@ -4,7 +4,7 @@ I'm Iman, a data scientist based in London with a background in visual design an
 
 
 - 🔭 I’m currently working on my master's thesis project 
-- 🌱 And learning about AI detection and Explainable AI 
+- 🌱 And learning about AI image detection and Explainable AI 
 
 
 

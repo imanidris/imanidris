@@ -14,7 +14,7 @@ I'm Iman, a data scientist based in London with a background in visual design an
 #### Research Interest:
 - Computer Vision
 - Machine Learning
-- Deep Learning
+
 
 #### Tools:
 - Language: Python, SQL, JavaScript 
@@ -24,6 +24,9 @@ Reach me out at imanidris1212@gmail.com
 
 
 <!-- 
+Graphics (2D & 3D)
+Human Computer Interaction
+
 geometric machine learning
 Computer Graphics
 AI Safety

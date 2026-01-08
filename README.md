@@ -2,14 +2,15 @@
 
 I'm Iman, a data scientist based in London with a background in visual design and architecture. Currently doing a master's in computing for the creative industry at the University of the Arts London.
 
-- 🔭 I’m currently working on my master's thesis project 
-- 🌱 And learning about AI image detection and Explainable AI 
+-  I’m currently working on my master's thesis project 
+-  And learning about AI image detection and Explainable AI 
 
   
 #### Research Interest:
 - Machine Learning
 - Computer Vision
-- Responsible AI 
+- Responsible AI
+- Human-Computer Interaction
 
 
 

@@ -9,6 +9,7 @@ I'm Iman, a data scientist based in London with a background in visual design an
 #### Research Interest:
 - Machine Learning
 - Computer Vision
+- ML Ops
 - Responsible AI
 - Human-Computer Interaction
 
